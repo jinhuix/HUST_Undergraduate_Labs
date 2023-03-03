@@ -1,1 +1,1 @@
-# Hust_OperatingSystem
+# 【华中科技大学】操作系统原理
