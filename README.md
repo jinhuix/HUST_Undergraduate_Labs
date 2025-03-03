@@ -15,3 +15,4 @@
 11. [计算机系统基础](Hust_Foundation_of_Computer_System)
 12. [算法设计与分析](Hust_Algorithmic_Design_and_Analysis)
 13. [硬件综合训练](Hust_Project_of_Hardware_System)
+14. [软件工程](https://github.com/jinhuix/Library_Android_App)
