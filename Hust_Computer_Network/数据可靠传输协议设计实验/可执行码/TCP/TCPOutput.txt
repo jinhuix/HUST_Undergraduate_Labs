@@ -1,0 +1,5772 @@
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 6
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 7 0 1 2 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 7
+nextSeqNum: 1
+frontSlidingWindow: [ 7 0 1 2 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
+rcvdAckNum: 1
+baseSeqNum: 1
+nextSeqNum: 5
+frontSlidingWindow: [ 1 2 3 4 ]
+rearSlidingWindow: [ 2 3 4 5 ]
+=================================================================
+rcvdAckNum: 2
+baseSeqNum: 2
+nextSeqNum: 5
+frontSlidingWindow: [ 2 3 4 5 ]
+rearSlidingWindow: [ 3 4 5 6 ]
+=================================================================
+rcvdAckNum: 3
+baseSeqNum: 3
+nextSeqNum: 5
+frontSlidingWindow: [ 3 4 5 6 ]
+rearSlidingWindow: [ 4 5 6 7 ]
+=================================================================
+rcvdAckNum: 4
+baseSeqNum: 4
+nextSeqNum: 5
+frontSlidingWindow: [ 4 5 6 7 ]
+rearSlidingWindow: [ 5 6 7 0 ]
+=================================================================
+rcvdAckNum: 5
+baseSeqNum: 5
+nextSeqNum: 1
+frontSlidingWindow: [ 5 6 7 0 ]
+rearSlidingWindow: [ 6 7 0 1 ]
+=================================================================
+rcvdAckNum: 7
+baseSeqNum: 6
+nextSeqNum: 1
+frontSlidingWindow: [ 6 7 0 1 ]
+rearSlidingWindow: [ 0 1 2 3 ]
+=================================================================
+rcvdAckNum: 0
+baseSeqNum: 0
+nextSeqNum: 1
+frontSlidingWindow: [ 0 1 2 3 ]
+rearSlidingWindow: [ 1 2 3 4 ]
+=================================================================
